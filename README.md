@@ -19,7 +19,7 @@
 #### Мои проекты:
 | API My Shows Rating |  API Битва покемонов | UI Битва покемонов |
 |---------------------|----------------------|--------------------|
-|[my-shows-api-tests](https://github.com/elenaivanovaqa/my-shows-api-tests)|[pokemonbattle-api-tests](https://github.com/elenaivanovaqa/pokemonbattle-api-tests)   | [pokemonbattle-e2e-tests](https://github.com/elenaivanovaqa/pokemonbattle-e2e-tests)   
+|[my-shows-api-tests](https://github.com/VladislavaVG/myshows_api_tests)|[pokemonbattle-api-tests](https://github.com/VladislavaVG/pokemonbattle_api_tests)   | [pokemonbattle-e2e-tests](https://github.com/VladislavaVG/pokemonbattle_e2e_tests_playwright)   
 | Pytest, Requests, Docker|Pytest, Requests, Gitlab CI| Playwright, Gitlab CI|
 
 
